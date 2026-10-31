@@ -4,7 +4,7 @@
     "homepage": "https://crossfyre.io/toolchain",
     "license": {
         "identifier": "Apache-2.0,Proprietary",
-        "url": "https://github.com/clickswave/crossfyre-toolchain/blob/main/LICENSE"
+        "url": "https://github.com/clickswave/crossfyre-releases/blob/main/BINARY-LICENCE.txt"
     },
     "notes": [
         "crossfyre from Scoop runs as your own user. To run this machine as a Crossfyre",
