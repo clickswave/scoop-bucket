@@ -1,5 +1,5 @@
 {
-    "version": "0.1.41",
+    "version": "0.1.42",
     "description": "CLI that installs recon and vulnerability scanning engines and manages nodes",
     "homepage": "https://crossfyre.io/toolchain",
     "license": {
@@ -12,9 +12,9 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://bins.crossfyre.io/crossfyre/v0.1.41/crossfyre-v0.1.41-windows-x86_64.zip",
-            "hash": "db46944e753835aa15dd539c6d9309849e061f6bcdda388473961e94b3516fe0",
-            "extract_dir": "crossfyre-v0.1.41-windows-x86_64"
+            "url": "https://bins.crossfyre.io/crossfyre/v0.1.42/crossfyre-v0.1.42-windows-x86_64.zip",
+            "hash": "ae51cd592ecb7f3abbed8ef4f0f5c50ce1204c06b63f191a4dad7f4dfe0a5ade",
+            "extract_dir": "crossfyre-v0.1.42-windows-x86_64"
         }
     },
     "bin": "crossfyre.exe",
