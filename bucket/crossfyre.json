@@ -1,10 +1,10 @@
 {
-    "version": "0.1.44",
+    "version": "0.1.45",
     "description": "CLI that installs recon and vulnerability scanning engines and manages nodes",
     "homepage": "https://crossfyre.io/toolchain",
     "license": {
-        "identifier": "Apache-2.0,Proprietary",
-        "url": "https://github.com/clickswave/crossfyre-releases/blob/main/BINARY-LICENCE.txt"
+        "identifier": "Apache-2.0",
+        "url": "https://github.com/clickswave/crossfyre-toolchain/blob/main/LICENSE"
     },
     "notes": [
         "crossfyre from Scoop runs as your own user. To run this machine as a Crossfyre",
@@ -12,9 +12,9 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://bins.crossfyre.io/crossfyre/v0.1.44/crossfyre-v0.1.44-windows-x86_64.zip",
-            "hash": "0bd42cde62263cf5ab97cd3131b02a98431ebeba51acfb41043eefb8af971c51",
-            "extract_dir": "crossfyre-v0.1.44-windows-x86_64"
+            "url": "https://bins.crossfyre.io/crossfyre/v0.1.45/crossfyre-v0.1.45-windows-x86_64.zip",
+            "hash": "8111ca5699dd47620acca4b1c8fb02658e8ba3c4ab963baaef710f6591011c7f",
+            "extract_dir": "crossfyre-v0.1.45-windows-x86_64"
         }
     },
     "bin": "crossfyre.exe",

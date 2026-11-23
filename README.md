@@ -33,9 +33,9 @@ Your sign-in and settings stay in `%APPDATA%\crossfyre` until you delete it.
 
 ## Licence
 
-The CLI is a first-party build. Its open source parts are under the Apache License
-2.0 and live at https://github.com/clickswave/crossfyre-toolchain. The binary as a
-whole is under `BINARY-LICENCE.txt`, which Scoop installs next to `LICENSE` and
-`THIRD-PARTY-NOTICES` in `~\scoop\apps\crossfyre\current`.
+The CLI is built from https://github.com/clickswave/crossfyre-toolchain and is
+under the Apache License 2.0, as its source is. Scoop installs `LICENSE`, and
+`THIRD-PARTY-NOTICES` with the licences of the open source components compiled into
+it, in `~\scoop\apps\crossfyre\current`.
 
 The manifests in this repository are under the 0BSD licence in `LICENSE`.
